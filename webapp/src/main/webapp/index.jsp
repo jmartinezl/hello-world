@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Register for DevOps Learning</h1>
+    <h1>Register for Kubernetes Learning</h1>
     <p>Please fill this form</p>
     <hr>
      
