@@ -1,7 +1,8 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Register for Kubernetes Learning</h1>
-    <p>Please fill this form</p>
+    <p>Please fill this page</p>
+    <hr />
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
